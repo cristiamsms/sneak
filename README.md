@@ -7,7 +7,9 @@ consuminendo la apikey de unsplash
 
 
 puedes verlo
-** Ruta ** : [sneak] o [codigo]
+
+
+# Ruta  : [sneak] o [codigo]
 
 
 [sneak]: https://cristiamsms.github.io/sneak/
