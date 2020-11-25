@@ -10,5 +10,5 @@ puedes verlo
 **Ruta ** : [sneak] o [aqui]
 
 
-[sneak]: 
-[aqui]: 
+[sneak]: https://cristiamsms.github.io/sneak/
+[aqui]: https://github.com/cristiamsms/sneak.git/ 
